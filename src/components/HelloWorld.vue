@@ -1,15 +1,10 @@
 <template>
-  <img src="~assets/logo.png" alt="HEROPY">
+  <img src="~assets/logo.png" alt="HEROPY" />
 </template>
 
 <script>
-export default {
-
-};
-
+export default {};
 </script>
 
 <style>
-
-
 </style>
