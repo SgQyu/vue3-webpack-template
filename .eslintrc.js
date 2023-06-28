@@ -12,7 +12,7 @@ module.exports = {
     'eslint:recommended'
   ],
   // 구문 분석할 패키지 설정(Babel, ES6^ => ES5)
-  parserOptions: {
+  parserOption: {
     parser: 'babel-eslint'
   },
   // 추가적인 코드 규칙을 설정

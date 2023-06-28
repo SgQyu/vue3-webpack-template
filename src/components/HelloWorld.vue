@@ -1,10 +1,13 @@
 <template>
-  <img src="~assets/logo.png" alt="HEROPY" />
+
 </template>
 
 <script>
-export default {};
+export default {
+  
+}
 </script>
 
-<style>
+<style lang="scss" scoped>
+
 </style>
